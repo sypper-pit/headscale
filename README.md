@@ -1,3 +1,17 @@
+## Add new auto migrate sqlite to pgsql script
+
+install pack  
+
+```
+pip install psycopg2-binary
+```
+
+edit script and run
+
+```
+python3 sqlite2pg.py
+```
+
 ![headscale logo](./docs/logo/headscale3_header_stacked_left.png)
 
 ![ci](https://github.com/juanfont/headscale/actions/workflows/test.yml/badge.svg)
